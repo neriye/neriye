@@ -1,1 +1,1 @@
-[[https://neriye.github.io]]
+https://neriye.github.io
